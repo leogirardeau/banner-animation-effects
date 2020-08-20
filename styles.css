@@ -45,3 +45,8 @@
   z-index: 1000;
   transform: scale(1.2);
 }
+
+scene i {
+  position: absolute;
+  background: #fff;
+}
